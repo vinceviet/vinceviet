@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+As a motivated full-stack software engineer, I have a passion for creating innovative solutions to challenging problems. My expertise in technologies such as JavaScript, Python, SQL, React, Redux, HTML, and CSS, has allowed me to excel in both front-end and back-end development. I am dedicated to utilizing my technical skills to turn ideas into reality and generate imaginative solutions.
+
+I am continually working towards enhancing my abilities and staying current with the advancements in software development. My objective is to merge my enthusiasm for technology and design to develop solutions that are significant and make a difference.
+
+I am currently working on [Five Star Seafood](https://five-star-seafood.onrender.com/) my clone of [Four Star Seafood](https://www.fourstarseafood.com/)
+
+
 <!--
 **vinceviet/vinceviet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
