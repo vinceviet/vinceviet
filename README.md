@@ -4,7 +4,7 @@ As a motivated full-stack software engineer, I have a passion for creating innov
 
 I am continually working towards enhancing my abilities and staying current with the advancements in software development. My objective is to merge my enthusiasm for technology and design to develop solutions that are significant and make a difference.
 
-I am currently working on [Five Star Seafood](https://five-star-seafood.onrender.com/) my clone of [Four Star Seafood](https://www.fourstarseafood.com/)
+I am currently working on [Five Star Seafood](https://five-star-seafood.onrender.com/) a clone of [Four Star Seafood](https://www.fourstarseafood.com/)
 
 
 <!--
